@@ -1,4 +1,3 @@
-import sys
 name = "Raju"
 rollno = "23"
 print("Name is" , name)
